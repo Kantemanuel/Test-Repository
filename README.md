@@ -1,2 +1,2 @@
-# Tkinter-File-Explorer
-A simple file explorer using Tkinter !
+# Test-Repository
+A repository for testing git and github fundamentals !
